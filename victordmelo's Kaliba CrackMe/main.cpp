@@ -3,6 +3,8 @@
  * Executable Download: http://www.crackmes.de/users/victordmelo/kaliba_crackme/
  * Author: Adam L More
  * Date: 6/1/2015
+ * OS: Windows
+ * CrackMe Written in: C/C++
  */
 
 #include <cstdlib>
